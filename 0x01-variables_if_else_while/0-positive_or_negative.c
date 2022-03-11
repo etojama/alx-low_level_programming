@@ -4,7 +4,9 @@
 
 /* more headers goes there */
 
-/** main determines if a number is positive or negative
+/** 
+* main - determines if a random number 
+* * generated is positive or negative
 *
 * Return: returns 0 at the end
 */  
