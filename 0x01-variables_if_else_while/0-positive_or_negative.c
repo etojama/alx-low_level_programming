@@ -4,12 +4,12 @@
 
 /* more headers goes there */
 
-/** 
-* main - determines if a random number 
+/**
+* * main - determines if a random number
 * * generated is positive or negative
 *
 * Return: returns 0 at the end
-*/  
+*/
 
 /* betty style doc for function main goes there */
 int main(void)
@@ -30,7 +30,6 @@ int main(void)
 	else
 	{
 		printf("%d is negative\n", n);
-
 	}	
 	return (0);
 }
