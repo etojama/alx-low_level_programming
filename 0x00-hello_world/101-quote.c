@@ -1,6 +1,7 @@
 #include <unistd.h>
 /**
 * main - Entry point
+* Return: 1 at the end
 */
 int main(void)
 {
