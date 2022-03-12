@@ -1,7 +1,7 @@
 #include <stdio.h>
 
 /**
-* main - program that prints two numbers 
+* main - program that prints two numbers
 * in combination of two digits
 *
 * Return: returns zero at the end
