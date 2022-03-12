@@ -1,8 +1,8 @@
 #include <stdio.h>
 
 /**
-* main - print single digit numbers starting from 0
-* 
+* main - print return value digit numbers starting from 0
+*
 * Return : returns zero ar the end
 */
 
