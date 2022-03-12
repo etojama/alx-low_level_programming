@@ -5,9 +5,9 @@
 *
 * Return : returns zero ar the end
 */
-
 int main(void)
 {
+
 	int i;
 	char ch;
 
