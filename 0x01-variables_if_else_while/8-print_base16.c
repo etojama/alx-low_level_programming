@@ -3,9 +3,10 @@
 /**
 * main - print return value digit numbers starting from 0
 *
-* Return : returns zero ar the end
+* Return: returns zero ar the end
 */
 int main(void)
+
 {
 
 	int i;
