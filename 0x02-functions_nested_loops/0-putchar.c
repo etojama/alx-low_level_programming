@@ -2,7 +2,7 @@
 /**
 * main - Entry point
 * write a program that prints putchar followed by a new line
-* Return: returns 0
+* Return: returns zero success
 */
 int main(void)
 {
