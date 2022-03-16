@@ -1,4 +1,4 @@
-#include "main"
+#include "main.h"
 
 /**
 * _isalpha - checks to see if an int is a letter.
@@ -8,10 +8,10 @@
 * Return: returns 1 if letter and 0 if not.
 */
 
-int _isalpha(int c)
+int main(int c)
 {
 	if ((c >= 'a' && c <= 'z') || (c >= 'A' && c <= 'Z'))
 		return (1);
-	else
+	else 
 		return (0);
 }
