@@ -1,4 +1,3 @@
-#include <stdio.h>
 #include "main.h"
 
 /**
@@ -9,12 +8,13 @@
 
 int _isupper(int c)
 {
-	char c;
-	if (c >= 'A' && c <= 'Z')
+	
+	if (c > 64 && c < 91)
 	{
 		return (1);
 	}
-	else {
+	else 
+	{
 		return (0);
 	}
 }
