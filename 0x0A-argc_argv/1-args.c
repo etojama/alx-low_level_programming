@@ -2,8 +2,10 @@
 
 /**
  * main - prints program count
+ * @argc: number of arguemnts.
+ * @argv: array of size argc.
  *
- * Return: zero
+ * Return: 0 on success
  */
 
 int main(int argc, char *argv[])
